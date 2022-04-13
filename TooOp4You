@@ -1,0 +1,2 @@
+local Victim = game.Players.yeatsrevenge
+Victim:kick("PERMA-BAN")
